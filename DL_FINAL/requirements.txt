@@ -1,0 +1,11 @@
+tensorflow
+keras
+opencv-python
+scikit-image
+scikit-learn
+transformers
+torch
+pandas
+numpy
+matplotlib
+seaborn

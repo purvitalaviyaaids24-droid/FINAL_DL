@@ -1,0 +1,6 @@
+Step / Topic,Task Type,Dataset Used,Key Metric,Result Achieved,Time Taken
+ANN,Classification,Enter your ANN dataset,Accuracy (%),Enter result,Enter minutes
+OpenCV,Image Processing / Face Detection,Your test images,Faces detected,Enter result,Enter minutes
+CNN,Image Classification,"MNIST (60,000 training images)",Accuracy (%),Enter result,Enter minutes
+RNN,Temperature Forecasting,"Daily Minimum Temperatures (3,650 days)",RMSE (°C),Enter result,Enter minutes
+Transformer,Fill-Mask / QA / Text Generation,5 India-related paragraphs,Correct answers (/10),Enter result,Enter minutes
