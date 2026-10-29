@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains five mini-projects completed as part of the Deep Learning Practical Exam – Set C. The projects demonstrate Artificial Neural Networks, OpenCV, Convolutional Neural Networks, Recurrent Neural Networks, and Transformer models.
 
-## Video Explanation Link : 
+## Video Explanation Link : https://drive.google.com/drive/folders/1Hwk48L7Ays5TCz3vXhxAe2Xc3d2lO0B3?usp=drive_link
 ## Projects Covered
 
 ### 1. ANN – Artificial Neural Network
